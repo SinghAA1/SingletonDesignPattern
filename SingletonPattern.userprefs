@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{F081C849-56E1-476D-93E0-156CA29A0D07}|Default">
+  <MonoDevelop.Ide.ItemProperties.SingletonPattern PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SingletonPattern/MySingletonClassTest.cs">
+    <Files>
+      <File FileName="SingletonPattern/Program.cs" Line="11" Column="6" />
+      <File FileName="SingletonPattern/MySingletonClass.cs" Line="56" Column="27" />
+      <File FileName="SingletonPattern/MySingletonClassTest.cs" Line="14" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SingletonPattern" expanded="True">
+            <Node name="SingletonPattern" expanded="True">
+              <Node name="References" expanded="True">
+                <Node name="From Packages" expanded="True" />
+              </Node>
+              <Node name="Packages" expanded="True" />
+              <Node name="MySingletonClassTest.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="SingletonPattern" expanded="True">
+            <Node name="SingletonPattern" expanded="True">
+              <Node name="SingletonPattern" expanded="True">
+                <Node name="MySingletonClassTest" expanded="True">
+                  <Node name="TestSingleton" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/amansingh/Projects/SingletonPattern/SingletonPattern/MySingletonClassTest.cs" relfile="SingletonPattern/MySingletonClassTest.cs" line="10" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

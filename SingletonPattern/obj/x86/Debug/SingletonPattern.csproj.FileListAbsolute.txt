@@ -1,0 +1,8 @@
+/Users/amansingh/Projects/SingletonPattern/SingletonPattern/obj/x86/Debug/SingletonPattern.csproj.CoreCompileInputs.cache
+/Users/amansingh/Projects/SingletonPattern/SingletonPattern/bin/Debug/SingletonPattern.exe
+/Users/amansingh/Projects/SingletonPattern/SingletonPattern/bin/Debug/SingletonPattern.pdb
+/Users/amansingh/Projects/SingletonPattern/SingletonPattern/obj/x86/Debug/SingletonPattern.exe
+/Users/amansingh/Projects/SingletonPattern/SingletonPattern/obj/x86/Debug/SingletonPattern.pdb
+/Users/amansingh/Projects/SingletonPattern/SingletonPattern/bin/Debug/nunit.framework.dll
+/Users/amansingh/Projects/SingletonPattern/SingletonPattern/bin/Debug/nunit.framework.xml
+/Users/amansingh/Projects/SingletonPattern/SingletonPattern/obj/x86/Debug/SingletonPattern.csprojResolveAssemblyReference.cache
